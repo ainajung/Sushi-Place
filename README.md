@@ -57,7 +57,7 @@ The goal was to build a web application that reflects the aesthetics and appeal 
 ## **Demo Preview**
 
 Here’s a glimpse of the project:  
-![Project image](./src/assets/images/sushipage.png)
+![Project image](./assets/sushi.png)
 
 
 ---
